@@ -25,7 +25,7 @@ Push swap  is a project where you have 2 stacks. Stack #1 field with non-sorted 
   * rrr : rra and rrb at the same time.
   
 ## How it works :
- 
+ ![push_swap](https://user-images.githubusercontent.com/91884862/177584674-879ead2c-bf88-4e7f-9ee1-eec9faffef52.gif)
 ## How to run:
 ```
 https://github.com/nechel11/pushswap.git push_swap
